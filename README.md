@@ -90,12 +90,12 @@ The initial models produced the following results on the test set:
 
 | Model | MAE (min) | RMSE (min) | R² |
 |---|---:|---:|---:|
-| Linear Regression | *6.54* | *9.68* | *0.789* |
-| Random Forest | 7.52 | 10.93 | 0.731 |
+| Linear Regression | *7.087273* | *10.751675* | *0.747703* |
+| Random Forest | 7.548116 | 11.647036 | 0.70393 |
 
 Based on these initial results, *Linear Regression performed better than the initial Random Forest configuration* across all three evaluation metrics.
 
-The Linear Regression model achieved an average prediction error of approximately *6.54 minutes*.
+The Linear Regression model achieved an average prediction error of approximately *7.087273 minutes*.
 
 ---
 
